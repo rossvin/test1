@@ -1,3 +1,4 @@
+//функции по работе с категорией витамины
 <?php
 session_start();
 ini_set('display_errors','Off');

@@ -1,3 +1,4 @@
+// страница проверки на наличие новых препаратов (витамины)
 <?php
 ini_set('display_errors','Off');
 header('Content-Type: text/html; charset=utf-8');

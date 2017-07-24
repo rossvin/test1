@@ -1,3 +1,4 @@
+//удаление препарата при просмотре в списке
 <?php session_start();?>
 <?php
 require_once 'function.php';

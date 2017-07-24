@@ -1,3 +1,4 @@
+// страница просмотра инструкции единичного препарата
 <?php header('Content-Type: text/html; charset=utf-8');
 require_once 'function.php';
 session_start();
