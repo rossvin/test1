@@ -1,3 +1,4 @@
+// страница загрузки препарата на тестовый сайт
 <?php
 header('Content-Type: text/html; charset=utf-8');
 session_start();
